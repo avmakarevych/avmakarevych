@@ -1,5 +1,29 @@
 <a href="https://drive.google.com/file/d/1cWPAueRs6A6b-v-gVkw-w7mtXu_2Ze7g/view" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:avmakarevych@gmail.com"><img src="https://img.shields.io/badge/Email-Andrii-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/avmakarevych/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Andrii%20Makarevych-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
+### [Appetizers](https://github.com/avmakarevych/Appetizers) 
+<p align="left"> <a href="https://github.com/avmakarevych/Appetizers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+![Appetizers](https://github.com/avmakarevych/avmakarevych/assets/117035165/67ad26b6-7952-414f-bb9d-af2c8e13dfd7)
+
+## Project Overview
+Appetizer App is a SwiftUI and MVVM-based course application, developed as part of Sean Allen's instructional material. The app is a practical implementation showcasing fundamental concepts in SwiftUI, MVVM architecture, API interactions, JSON parsing, and AppStorage utilization. It features a TabView for displaying a list of appetizers fetched from an API, an "Account" view for demonstrating forms and saving user data, and an "Order" tab for managing added appetizers.
+
+### Features
+- JSON decoding and parsing for displaying a list of appetizers
+- Account information saving using @AppStorage / User Defaults
+- Interactive UI with Empty States and Alerts (profile saved, error loading user defaults)
+- UX logic for summing added items on the Order tab
+- Light/Dark mode and Dynamic Type compatibility
+
+## Technologies
+- Language: SwiftUI
+- Architecture: MVVM
+
+## Role
+- Course Participant
+
+---
 ### [MyMovieApp](https://github.com/avmakarevych/MyMovieApp) 
 <p align="left"> <a href="https://github.com/avmakarevych/MyMovieApp"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
