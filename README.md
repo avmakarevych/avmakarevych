@@ -7,22 +7,17 @@
 
 ![Appetizers](https://github.com/avmakarevych/avmakarevych/assets/117035165/67ad26b6-7952-414f-bb9d-af2c8e13dfd7)
 
-## Project Overview
 Appetizer App is a SwiftUI and MVVM-based course application, developed as part of Sean Allen's instructional material. The app is a practical implementation showcasing fundamental concepts in SwiftUI, MVVM architecture, API interactions, JSON parsing, and AppStorage utilization. It features a TabView for displaying a list of appetizers fetched from an API, an "Account" view for demonstrating forms and saving user data, and an "Order" tab for managing added appetizers.
 
-### Features
-- JSON decoding and parsing for displaying a list of appetizers
-- Account information saving using @AppStorage / User Defaults
-- Interactive UI with Empty States and Alerts (profile saved, error loading user defaults)
-- UX logic for summing added items on the Order tab
-- Light/Dark mode and Dynamic Type compatibility
+- **Features**:
+  - Appetizer List: Displays a list of appetizers fetched from an API.
+  - Account Management: Save user information using @AppStorage / User Defaults.
+  - Interactive UI: Includes Empty States and Alerts for a user-friendly experience.
+  - Order Summation: UX logic to calculate the total on the Order tab.
+  - Theme Compatibility: Supports Light/Dark mode and Dynamic Type.
 
-## Technologies
-- Language: SwiftUI
-- Architecture: MVVM
-
-## Role
-- Course Participant
+- **Technologies**: SwiftUI, MVVM
+- **Role**: Course Participant
 
 ---
 ### [MyMovieApp](https://github.com/avmakarevych/MyMovieApp) 
