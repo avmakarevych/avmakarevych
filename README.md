@@ -1,5 +1,6 @@
 <a href="https://drive.google.com/file/d/1cWPAueRs6A6b-v-gVkw-w7mtXu_2Ze7g/view" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:avmakarevych@gmail.com"><img src="https://img.shields.io/badge/Email-Andrii-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/avmakarevych/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Andrii%20Makarevych-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
+---
 ### [Appetizers](https://github.com/avmakarevych/Appetizers) 
 <p align="left"> <a href="https://github.com/avmakarevych/Appetizers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
